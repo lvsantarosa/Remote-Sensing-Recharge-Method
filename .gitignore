@@ -1,0 +1,8 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+# working folders (local data and results)
+temp/
+01_DADOS/
+02_RESULTADOS/
